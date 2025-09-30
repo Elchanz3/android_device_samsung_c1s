@@ -8,7 +8,7 @@ This was tested and it's fully compatible with [minimal manifest twrp](https://g
 1. Set up the build environment following instructions from [here](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp/blob/twrp-11/README.md#getting-started)
 2. In the root folder of cloned repo you need to clone the device tree:
 ```bash
-git clone -b android-12.1 https://github.com/Elchanz3/android_kernel_samsung_c1s-twrp.git device/samsung/c1s
+git clone -b android-11.0 https://github.com/TeamWin/android_device_samsung_c1s.git device/samsung/c1s
 ```
 3. To build:
 ```bash
